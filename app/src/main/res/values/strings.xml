@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ScannerAndGenerator</string>
+    <string name="value_Required">TextField Cannot be left empty</string>
+</resources>
